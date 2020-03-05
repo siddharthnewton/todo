@@ -50,6 +50,6 @@ app.get('/api/todos/add', function(req,resp){
     //resp.send(req.query)
 })
 
-app.listen(3000, function(){
+app.listen(process.env.PORT || 3000, function(){
     console.log("Server started");
 });

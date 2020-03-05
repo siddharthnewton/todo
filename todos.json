@@ -1,1 +1,4 @@
-{"name":"Daily Chores","data":[{"id":0,"title":"Buy Milk","checked":true},{"title":"Buy Paste","checked":false},{"title":"adsf","checked":false},{"title":"adsf","checked":false},{"title":"dsaf","checked":false},{"title":"sad","checked":false},{"title":"asdf","checked":false},{"title":"dsaf","checked":false}]}
+{
+    "user": {"username":"siddharth","password":"password"},
+    "todo": {"name":"Daily Chores","data":[{"id":0,"title":"Buy Milk","checked":true},{"title":"Buy Paste","checked":false},{"title":"adsf","checked":false},{"title":"adsf","checked":false},{"title":"dsaf","checked":false},{"title":"sad","checked":false},{"title":"asdf","checked":false},{"title":"dsaf","checked":false}]}
+}
